@@ -34,7 +34,7 @@ using prediction and visualization techniques.
 - Recommended **optimized budget allocation**
 
 ## ▶️ Run the Notebook in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aditri-Sharma-09/Marketing-Campaign-Analysis/blob/main/MarketCampaignAnalysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aditri-Sharma-09/-Marketing-Campaign-Analysis/blob/main/MarketCampaignAnalysis.ipynb)
 
 
 
